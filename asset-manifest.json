@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/CW8_Filter/static/css/main.dcc8a1a1.css",
+    "main.js": "/CW8_Filter/static/js/main.18cf6f4f.js",
+    "static/js/787.d4aba7ab.chunk.js": "/CW8_Filter/static/js/787.d4aba7ab.chunk.js",
+    "index.html": "/CW8_Filter/index.html",
+    "main.dcc8a1a1.css.map": "/CW8_Filter/static/css/main.dcc8a1a1.css.map",
+    "main.18cf6f4f.js.map": "/CW8_Filter/static/js/main.18cf6f4f.js.map",
+    "787.d4aba7ab.chunk.js.map": "/CW8_Filter/static/js/787.d4aba7ab.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.dcc8a1a1.css",
+    "static/js/main.18cf6f4f.js"
+  ]
+}
