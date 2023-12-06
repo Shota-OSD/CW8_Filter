@@ -24,6 +24,15 @@
   color: white;
 }
 
+.filter-list {
+  text-align: center;
+}
+
+#typeDropdown {
+  display: inline-block;
+}
+
+
 .App-link {
   color: #61dafb;
 }
@@ -36,3 +45,45 @@
     transform: rotate(360deg);
   }
 }
+
+/* List.css */
+
+body{
+  background-color: #282c34;
+  font-size: xx-large;
+  color: #ddd;
+}
+ul, ol {
+  padding: 0;
+  margin: auto;
+  list-style: none;
+  text-align: center;
+}
+
+
+li {
+  padding: 10px;
+  border-bottom: 1px solid #ddd; 
+  transition: background-color 0.3s ease; 
+  margin: auto;
+}
+
+li:hover {
+  background-color: rgb(60, 118, 194); 
+  cursor: pointer;
+}
+
+li:last-child {
+  border-bottom: none;
+}
+
+
+li.selected {
+  background-color: #e0e0e0; /* 選択時の背景色 */
+}
+
+
+ul {
+  width: 50%; /* 幅を100%に設定 */
+}
+
